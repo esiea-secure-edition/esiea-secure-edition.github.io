@@ -176,6 +176,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-brand {
+    padding-top: 7px;
     font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
     color: #{{ site.data.template.color.primary }};
 }
@@ -234,7 +235,15 @@ fieldset[disabled] .btn-xl.active {
     background-color: #{{ site.data.template.color.secondary }};
 }
 
+.logo {
+    height: 50px;
+}
+
 @media(min-width:768px) {
+    .logo {
+        height: 100px;
+    }
+
     .navbar-default {
         padding: 25px 0;
         border: 0;
