@@ -1,29 +1,26 @@
+url: http://localhost:4000
+baseurl: ""
+
+# Site settings
 title: ESIEA Secure Edition
-description: > # this means to ignore newlines until "baseurl:"
-  La conférence de cybersécurité par les étudiants de l'ESIEA
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ese.esiea.fr" # the base hostname & protocol for your site
-# Build settings
-markdown: kramdown
+email: ese@et.esiea.fr
+description: "Conférences et ateliers sur la sécurité informatique et le hacking #ESE8"
 
-logo: "../img/ese.png"
-
-include: ['_2017_pages']
-
-plugins:
-  - jekyll-sitemap
-  - jekyll-seo-tag
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: facebook
-    url: https://www.facebook.com/ESIEASecEd
   - title: twitter
     url: https://twitter.com/EsieaSecEdit
+  - title: facebook
+    url: https://www.facebook.com/ESIEASecEd
   - title: linkedin
     url: https://www.linkedin.com/company/19056710
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 74 bis Avenue Maurice Thorez
+  - line: 94200 Ivry-sur-Seine
 
 # Build settings
 markdown: kramdown
 permalink: pretty
-
