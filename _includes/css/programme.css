@@ -1,6 +1,8 @@
 table {
     width: 100%;
-  }
+    background-color: azure;
+}
+  
 
   tr, td {
     padding: 10px;
