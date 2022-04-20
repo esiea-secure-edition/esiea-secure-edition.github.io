@@ -1,6 +1,5 @@
 table {
     width: 100%;
-    background-color: gray;
 }
   
 
@@ -8,6 +7,6 @@ table {
     padding: 10px;
   }
 
- #programme {
+ section#programme {
      background-color: gray;
  }
