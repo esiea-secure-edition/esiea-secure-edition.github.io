@@ -4,7 +4,7 @@ baseurl: ""
 # Site settings
 title: ESIEA Secure Edition
 email: ese@esiea.fr
-description: "Conférences et ateliers sur la sécurité informatique et le hacking #ESE9"
+description: "Conférences et ateliers sur la sécurité informatique et le hacking #ESE10"
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -18,8 +18,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 74 bis Avenue Maurice Thorez
-  - line: 94200 Ivry-sur-Seine
+  - line: 9 rue de Vesale
+  - line: 75005 Paris
 
 # Build settings
 markdown: kramdown
