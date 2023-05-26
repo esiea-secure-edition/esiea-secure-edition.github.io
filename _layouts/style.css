@@ -2,4 +2,5 @@
 {% include css/agency.css %}
 {% include css/programme.css %}
 {% include css/cfp.css %}
+{% include css/speakers.css %}
 {{ content }}
